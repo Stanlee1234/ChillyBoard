@@ -434,8 +434,12 @@
         "uuid": "68d48f87-6f55-44ca-893c-a443256e0d99"
       }
     ],
-    "used_designators": "#PWR1-6,C1-3,D1,L1,R1,U1",
-    "variants": []
+    "used_designators": "AE1,#PWR1-24,C1-4,C10,C12,C16,C21,C23-24,C26,D1-2,L1-2,L11,R1,U1",
+    "variants": [
+      {
+        "name": "MNF PART NUMBER"
+      }
+    ]
   },
   "sheets": [
     [
