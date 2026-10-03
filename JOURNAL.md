@@ -14,18 +14,18 @@
 
 ## Contents
 
-1. [2026-10-02 — Started on the project, and currently working on the schematic of the module. Here is a result that I would 100% like:](#2026-10-02-started-on-the-project-and-currently-working-on-t)
+1. [2026-10-02 — Started on the project, and currently working on the schematic of the module. Here is a result that I would like a lot:](#2026-10-02-started-on-the-project-and-currently-working-on-t)
 2. [2026-10-03 — Ok, so I finally finished my schematic for the board. I used the ESP32-S3 Schematic Checklist shown below:](#2026-10-03-ok-so-i-finally-finished-my-schematic-for-the-boa)
 
 ## Design
 
-### 2026-10-02 — Started on the project, and currently working on the schematic of the module. Here is a result that I would 100% like:
+### 2026-10-02 — Started on the project, and currently working on the schematic of the module. Here is a result that I would like a lot:
 
 **1h**
 
-Started on the project, and currently working on the schematic of the module. Here is a result that I would 100% like:
+Started on the project, and currently working on the schematic of the module. Here is a result that I would like a lot:
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/02285eaa4d71e3a4bd8f7c429ab7acfd3bf3708294533d6b1fbaccd8d11ff737.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/dV5DNWN0CEIJqjXEjV5AkLty6hRHMTTp/5c5f56155facb7f7609e5ec5af831acc53ea2865492c23446a77151d72c27c51.png)
 
 Due to the fact that I am using the ESP32 chip itself, you need to have essential parts for the ESP to work. It took me some time to start learning the parts, and that was about how much time I had.
 
